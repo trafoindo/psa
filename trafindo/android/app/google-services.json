@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609972485740",
+    "project_id": "psa-apps-ab6e4",
+    "storage_bucket": "psa-apps-ab6e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609972485740:android:34936c747a9cd4a7242249",
+        "android_client_info": {
+          "package_name": "com.trafoindopsa.trafindo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMe6-eaNAZJ4Sg366EVc5iYb6Uzcp-UUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
